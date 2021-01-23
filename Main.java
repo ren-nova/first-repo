@@ -14,5 +14,18 @@ public class Main {
         System.out.println(pets + plants);
         System.out.println(name + " " + lastName);
         System.out.println(name + " " + lastName + " has " + pets + " pets.");
+        //changes start here
+        int codingExperience = 0;
+            //I complete lesson one
+        codingExperience++;
+        System.out.println(codingExperience);
+        String favoriteSeries = "Percy Jackson";
+        System.out.println(name + " " + lastName + " likes " + favoriteBook + " and " + favoriteSeries);
+            //I get the print lines things now, so lets do some math
+        pets++;
+        plants = plants + 2;
+        System.out.println(plants);
+        System.out.println(pets);
+        //wooo, im calling that good for now! 
     }
 }
