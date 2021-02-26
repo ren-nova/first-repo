@@ -27,5 +27,6 @@ public class Main {
         System.out.println(plants);
         System.out.println(pets);
         //wooo, im calling that good for now! 
+        //i am going to commit a rage crime if this new commit works.
     }
 }
